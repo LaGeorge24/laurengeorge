@@ -1,4 +1,4 @@
-name: "Lauren-George"
+avname: "Lauren-George"
 navbar: "Lauren George's Data Science Website"
 left: 
 - text: "Home"
@@ -10,4 +10,4 @@ href: mailto:<lauren.george@unh.edu>
 href: http://github.com/<laurengeorge>/
   output:
   html_document:
-  theme: darkly
+  theme: readable
